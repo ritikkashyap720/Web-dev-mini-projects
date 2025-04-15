@@ -1,9 +1,9 @@
 ---
 name: " Add project"
-about: LGMSOC
+about: Web-dev-mini-projects
 title: Project title
-labels: LGMSOC21
-assignees: ''
+labels: ["hacktoberfest", "hacktoberfest-accepted"]
+allowSelfAssign: true
 
 ---
 
